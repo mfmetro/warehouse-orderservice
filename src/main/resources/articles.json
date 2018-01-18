@@ -1,0 +1,92 @@
+[
+  {
+    "id":"32932cf3-8ba7-4e22-a4d9-c1e9f8baf12b",
+    "name":"DAIRYLIFE Milk",
+    "storageArea":"MAIN",
+    "ean":"978020137962"
+  },
+  {
+    "id":"9ec11179-6bd0-46cd-b52f-706fb27faa64",
+    "name":"Sample Article II",
+    "storageArea":"MAIN",
+    "ean":"978020137962"
+  },
+  {
+    "id":"e6e2efe6-d9de-4dad-a28d-9aa66fd73402",
+    "name":"Sample Article III",
+    "storageArea":"MAIN",
+    "ean":"978020137962"
+  },
+  {
+    "id":"15376596-f7b4-4768-b4bf-a971c8bfd879",
+    "name":"Sample Article IV",
+    "storageArea":"MAIN",
+    "ean":"978020137962"
+  },
+  {
+    "id":"d190e940-bb41-4a21-ad86-8c5b7edef3fe",
+    "name":"Sample Article V",
+    "storageArea":"MAIN",
+    "ean":"978020137962"
+  },
+  {
+    "id":"f05e7d6d-44e7-4976-801d-a4e194453b2d",
+    "name":"Sample Article CHILLED I",
+    "storageArea":"CHILLED",
+    "ean":"978020137962"
+  },
+  {
+    "id":"d012edcd-b153-4c13-9adb-c88cb2d23615",
+    "name":"Sample Article CHILLED II",
+    "storageArea":"CHILLED",
+    "ean":"978020137962"
+  },
+  {
+    "id":"22883d03-9d04-4061-a27b-f06194f40913",
+    "name":"Sample Article CHILLED III",
+    "storageArea":"CHILLED",
+    "ean":"978020137962"
+  },
+  {
+    "id":"99b0e95b-6fd0-41d6-a910-3025a9d1f4ff",
+    "name":"Sample Article CHILLED IV",
+    "storageArea":"CHILLED",
+    "ean":"978020137962"
+  },
+  {
+    "id":"c12ab40b-d688-4854-a6b3-f3956645f450",
+    "name":"Sample Article CHILLED V",
+    "storageArea":"CHILLED",
+    "ean":"978020137962"
+  },
+  {
+    "id":"abce7d40-25d2-48ea-b48d-e71f58a4255f",
+    "name":"Sample Article DEEP_FROZEN I",
+    "storageArea":"DEEP_FROZEN",
+    "ean":"978020137962"
+  },
+  {
+    "id":"4f8d9aa2-1b48-4ed5-8c4d-1e66924ec11e",
+    "name":"Sample Article DEEP_FROZEN II",
+    "storageArea":"DEEP_FROZEN",
+    "ean":"978020137962"
+  },
+  {
+    "id":"dcd11428-8f11-46cd-bed5-2769c76f7b4e",
+    "name":"Sample Article DEEP_FROZEN III",
+    "storageArea":"DEEP_FROZEN",
+    "ean":"978020137962"
+  },
+  {
+    "id":"125d1337-b2b0-42d4-8db0-a8953dc18410",
+    "name":"Sample Article DEEP_FROZEN IV",
+    "storageArea":"DEEP_FROZEN",
+    "ean":"978020137962"
+  },
+  {
+    "id":"bd256d95-f632-4f92-8fea-59da71791ccd",
+    "name":"Sample Article DEEP_FROZEN V",
+    "storageArea":"DEEP_FROZEN",
+    "ean":"978020137962"
+  }
+]
