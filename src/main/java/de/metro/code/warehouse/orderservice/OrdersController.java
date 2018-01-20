@@ -32,7 +32,7 @@ public class OrdersController {
     @RequestMapping(path = "/orderFeed", method = RequestMethod.GET)
     public @ResponseBody List<String> ordersFeed(
             final @RequestParam("date") String dateString,
-            final @RequestParam(name = "time", defaultValue = "00:00") String timeString) {
+            final @RequestParam(name = "time", defaultValue = "00:00:00") String timeString) {
 
         final LocalDate date = LocalDate.parse(dateString, DateTimeFormatter.ISO_DATE);
         final LocalTime time = LocalTime.parse(timeString, DateTimeFormatter.ISO_TIME);
