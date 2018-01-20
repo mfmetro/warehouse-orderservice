@@ -18,8 +18,9 @@ public class OrderRepositoryImpl implements OrderRepository {
 
     @Override
     public Order save(final Order order) {
-        orders.put(order.getId(), new Order(order));
-        return order;
+        final Order newOrder = new Order(order);
+        orders.put(order.getId(), newOrder);
+        return newOrder;
     }
 
     @Override

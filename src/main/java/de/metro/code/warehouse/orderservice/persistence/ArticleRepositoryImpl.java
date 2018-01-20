@@ -25,9 +25,10 @@ public class ArticleRepositoryImpl implements ArticleRepository {
 
     @Override
     public Article save(final Article article) {
-        articles.put(article.getId(), new Article(article));
-        log.info("article saved: " + article);
-        return article;
+        final Article newArticle = new Article(article);
+        articles.put(article.getId(), newArticle);
+        log.info("article saved: " + newArticle);
+        return newArticle;
     }
 
     @Override
