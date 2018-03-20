@@ -3,126 +3,126 @@
     "id":"32932cf3-8ba7-4e22-a4d9-c1e9f8baf12b",
     "name":"DAIRYLIFE Milk 1L",
     "storageArea":"MAIN",
-    "ean":"978020137962"
+    "ean":"9783598215001"
   },
   {
     "id":"9ec11179-6bd0-46cd-b52f-706fb27faa64",
     "name":"Sungold Orange Juice 1L",
     "storageArea":"MAIN",
-    "ean":"978020137962"
+    "ean":"9783598215018"
   },
   {
     "id":"e6e2efe6-d9de-4dad-a28d-9aa66fd73402",
     "name":"McMillan's Scottish Shortbread",
     "storageArea":"MAIN",
-    "ean":"978020137962"
+    "ean":"9783598215025"
   },
   {
     "id":"15376596-f7b4-4768-b4bf-a971c8bfd879",
     "name":"ConsumerStar Baked Beans",
     "storageArea":"MAIN",
-    "ean":"978020137962"
+    "ean":"9783598215032"
   },
   {
     "id":"d190e940-bb41-4a21-ad86-8c5b7edef3fe",
     "name":"Sungold Apple Juice 1L",
     "storageArea":"MAIN",
-    "ean":"978020137962"
+    "ean":"9783598215049"
   },
   {
     "id":"c157089e-bc31-406c-bc50-7a64087bc66e",
     "name":"HOMESupply Garbage Bags 10x25L",
     "storageArea":"MAIN",
-    "ean":"978020137962"
+    "ean":"9783598215056"
   },
   {
     "id":"f05e7d6d-44e7-4976-801d-a4e194453b2d",
     "name":"DAIRYLIFE Yoghurt Multi-Fruit",
     "storageArea":"CHILLED",
-    "ean":"978020137962"
+    "ean":"9783598215063"
   },
   {
     "id":"d012edcd-b153-4c13-9adb-c88cb2d23615",
     "name":"DAIRYLIFE Yoghurt Strawberry",
     "storageArea":"CHILLED",
-    "ean":"978020137962"
+    "ean":"9783598215070"
   },
   {
     "id":"22883d03-9d04-4061-a27b-f06194f40913",
     "name":"DAIRYLIFE Butter 250g",
     "storageArea":"CHILLED",
-    "ean":"978020137962"
+    "ean":"9783598215087"
   },
   {
     "id":"99b0e95b-6fd0-41d6-a910-3025a9d1f4ff",
     "name":"Sungold Smoothie Banana-Coconut",
     "storageArea":"CHILLED",
-    "ean":"978020137962"
+    "ean":"9783598215094"
   },
   {
     "id":"c12ab40b-d688-4854-a6b3-f3956645f450",
     "name":"ConsumerStar Gouda 500g",
     "storageArea":"CHILLED",
-    "ean":"978020137962"
+    "ean":"9783598215100"
   },
   {
     "id":"abce7d40-25d2-48ea-b48d-e71f58a4255f",
     "name":"Farmer Joe's Soup Chicken 1kg",
     "storageArea":"DEEP_FROZEN",
-    "ean":"978020137962"
+    "ean":"9783598215117"
   },
   {
     "id":"4f8d9aa2-1b48-4ed5-8c4d-1e66924ec11e",
     "name":"Farmer Joe's Beef Steak 300g",
     "storageArea":"DEEP_FROZEN",
-    "ean":"978020137962"
+    "ean":"9783598215124"
   },
   {
     "id":"dcd11428-8f11-46cd-bed5-2769c76f7b4e",
     "name":"Cakehouse Strawberry Cake",
     "storageArea":"DEEP_FROZEN",
-    "ean":"978020137962"
+    "ean":"9783598215131"
   },
   {
     "id":"125d1337-b2b0-42d4-8db0-a8953dc18410",
     "name":"FinestFoods Sachertorte",
     "storageArea":"DEEP_FROZEN",
-    "ean":"978020137962"
+    "ean":"9783598215148"
   },
   {
     "id":"bd256d95-f632-4f92-8fea-59da71791ccd",
     "name":"FinestFoods Princess Cake",
     "storageArea":"DEEP_FROZEN",
-    "ean":"978020137962"
+    "ean":"9783598215155"
   },
   {
     "id":"89a4f671-511e-49ff-827c-a84be736ee13",
     "name":"HOMESupply Glass Cleaner",
     "storageArea":"DANGEROUS",
-    "ean":"978020137962"
+    "ean":"9783598215162"
   },
   {
     "id":"02fb193c-fda9-404d-8453-0bb39cf3c609",
     "name":"HOMESupply Drain Cleaner",
     "storageArea":"DANGEROUS",
-    "ean":"978020137962"
+    "ean":"9783598215179"
   },
   {
     "id":"be9a049e-905e-427d-8b95-406259abc6c0",
     "name":"HOMESupply Lighter Fuel",
     "storageArea":"DANGEROUS",
-    "ean":"978020137962"
+    "ean":"9783598215186"
   },
   {
     "id":"dff27157-0caa-45b7-912b-c6253616954c",
     "name":"HOMESupply Vinegar Cleaner",
     "storageArea":"DANGEROUS",
-    "ean":"978020137962"
+    "ean":"9783598215193"
   },
   {
     "id":"c04423ff-fc20-4b4a-adcc-7020ed355b72",
     "name":"Healthylife Desinfectant",
     "storageArea":"DANGEROUS",
-    "ean":"978020137962"
+    "ean":"9783598215209"
   }
 ]
